@@ -1,0 +1,12 @@
+{
+	"id": 29040444,
+	"epoch_second": 1643969043,
+	"problem_id": "math_and_algorithm_b",
+	"contest_id": "math-and-algorithm",
+	"user_id": "ftax",
+	"language": "Python (3.8.2)",
+	"point": 1000,
+	"length": 64,
+	"result": "AC",
+	"execution_time": 23
+}
